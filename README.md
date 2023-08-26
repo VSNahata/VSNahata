@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @VSNahata
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently interested in web dev
+<br>
 
 <!---
 VSNahata/VSNahata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
